@@ -4,6 +4,13 @@ body{
 }
 
 
+.roboto-mono {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing:auto;
+    font-weight: 10;
+    font-style: normal;
+}
+
 .div1{
     box-sizing: border-box;
     text-align: center;
